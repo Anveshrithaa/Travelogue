@@ -9,6 +9,6 @@ A Node.js web application project built using express as the web application fra
 * Create, edit and delete posts and comments
 * Flash messages responding to users' interaction with the app
 
-## Clone or download this repository
-
+###### Clone or download this repository
+https://github.com/Anveshrithaa/Travelogue.git
 
